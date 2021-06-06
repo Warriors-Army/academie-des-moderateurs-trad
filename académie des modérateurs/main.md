@@ -38,4 +38,4 @@ Les modérateurs experts font également face à des challenges ! Ces ressources
 ### Crédits d'Auteurs
 L'Académie des Modérateurs de Discord a été soigneusement rédigé par plusieurs modérateur en collaboration avec Discord. Jetez un œil aux crédits pour les remerciements.
 - [Crédits d'Auteurs](https://discord.com/moderation/360059013394-Author-Credits)
-- [Crédits de Traducteurs](/académie%20des%20modérateurs/credits/traducteurs.md)
+- [Crédits des Traducteurs](/académie%20des%20modérateurs/credits/traducteurs.md)
