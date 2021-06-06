@@ -16,24 +16,24 @@ Ces ressources répondent à des questions basiques sur la construction et la mo
 
 ### Configuration et Fonctionnalités
 Maintenant que la fondation est posée, c'est l'heure de rendre votre communauté plus séduisante en tirant parti des fonctionnalités de Discord pour gérer votre mécanisme de modération et votre équipe, et pour construire une communauté attractive pleine de salons intéressants et d'évènements auxquels participer.
-- [201: Les Permissions sur Discord](/configuration/201.md)
-- [202: Handling Difficult Scenarios](/configuration/202.md)
-- [203: Developing Server Rules](/configuration/203.md)
-- [204: Ban Appeals](/configuration/204.md)
-- [210: Moderator Recruitment](/configuration/210.md)
+- [201: Les Permissions sur Discord](/académie%20des%20modérateurs/configuration/201.md)
+- [202: Handling Difficult Scenarios](/académie%20des%20modérateurs/configuration/202.md)
+- [203: Developing Server Rules](/académie%20des%20modérateurs/configuration/203.md)
+- [204: Ban Appeals](/académie%20des%20modérateurs/configuration/204.md)
+- [210: Moderator Recruitment](/académie%20des%20modérateurs/configuration/210.md)
 
 ### Gestion de Communauté Avancé
 Les modérateurs experts font également face à des challenges ! Ces ressources sont pour ceux qui cherchent à en apprendre plus sur la complexité de la gestion de communauté et doivent prendre les bonnes décisions en tant que modérateur.
-- [401: Transparency in Moderation](/avance/401.md)
-- [403: Sensitive Topics](/avance/403.md)
-- [405: Practicalities of Moderating Adult Channels](/avance/405.md)
-- [432: Internationalization of a Community](/avance/432.md)
-- [441: Community Governance Structures](/avance/441.md)
-- [442: Using Insights to Improve Community Growth and Engagement](/avance/442.md)
-- [443: Ban Evasion and Advanced Harassment](/443.md)
-- [451: Reddit x Discord](/avance/451.md)
-- [452: Twitch x Discord](/avance/452.md)
-- [454: Bringing Other Communities To Discord](/avance/454.md)
+- [401: Transparency in Moderation](/académie%20des%20modérateurs/avance/401.md)
+- [403: Sensitive Topics](/académie%20des%20modérateurs/avance/403.md)
+- [405: Practicalities of Moderating Adult Channels](/académie%20des%20modérateurs/avance/405.md)
+- [432: Internationalization of a Community](/académie%20des%20modérateurs/avance/432.md)
+- [441: Community Governance Structures](/académie%20des%20modérateurs/avance/441.md)
+- [442: Using Insights to Improve Community Growth and Engagement](/académie%20des%20modérateurs/avance/442.md)
+- [443: Ban Evasion and Advanced Harassment](/académie%20des%20modérateurs/avance/443.md)
+- [451: Reddit x Discord](/académie%20des%20modérateurs/avance/451.md)
+- [452: Twitch x Discord](/académie%20des%20modérateurs/avance/452.md)
+- [454: Bringing Other Communities To Discord](/académie%20des%20modérateurs/avance/454.md)
 
 ### Crédits d'Auteurs
 L'Académie des Modérateurs de Discord a été soigneusement rédigé par plusieurs modérateur en collaboration avec Discord. Jetez un œil aux crédits pour les remerciements.
