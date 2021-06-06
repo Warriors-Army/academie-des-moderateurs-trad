@@ -15,7 +15,7 @@ Ces ressources répondent à des questions basiques sur la construction et la mo
 - [104: Comment Signaler du Contenu à Discord](/basiques/104.md)
 
 ### Configuration et Fonctionnalités
-Maintenant que la fondation est posée, c'est l'heure de rendre votre communauté plus séduisante en tirant parti des fonctionnalités de Discord pour gérer votre mécanisme de modération et votre équipe, et pour construire une communauté attractive pleine de salons intéressants et d'évènements auxquels participer.
+Maintenant que les bases sont posées, c'est l'heure de rendre votre communauté plus séduisante en tirant parti des fonctionnalités de Discord pour gérer votre mécanisme de modération et votre équipe, et pour construire une communauté attractive pleine de salons intéressants et d'évènements auxquels participer.
 - [201: Les Permissions sur Discord](/académie%20des%20modérateurs/configuration/201.md)
 - [202: Handling Difficult Scenarios](/académie%20des%20modérateurs/configuration/202.md)
 - [203: Developing Server Rules](/académie%20des%20modérateurs/configuration/203.md)
