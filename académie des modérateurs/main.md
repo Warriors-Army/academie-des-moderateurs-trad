@@ -11,8 +11,8 @@ Le sommaire de l'Académie des modérateurs de Discord est organisé en fonction
 
 ### Basiques
 Ces ressources répondent à des questions basiques sur la construction et la modération d'une communauté, qu'il s'agisse de nouveautés sur Discord ou de rappels utiles.
-- [103: Configuration Basique des Salons](/basiques/103.md)
-- [104: Comment Signaler du Contenu à Discord](/basiques/104.md)
+- [103: Configuration Basique des Salons](/académie%20des%20modérateurs/basiques/103.md)
+- [104: Comment Signaler du Contenu à Discord](/académie%20des%20modérateurs/basiques/104.md)
 
 ### Configuration et Fonctionnalités
 Maintenant que les bases sont posées, c'est l'heure de rendre votre communauté plus séduisante en tirant parti des fonctionnalités de Discord pour gérer votre mécanisme de modération et votre équipe, et pour construire une communauté attractive pleine de salons intéressants et d'évènements auxquels participer.
