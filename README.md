@@ -1,5 +1,5 @@
 # academie-des-moderateurs-trad
-Traduction (non-officiel) du manuel officiel de l'[académie des modérateurs Discord](https://discord.com/moderation)
+Traduction (non-officielle) du manuel officiel de l'[académie des modérateurs Discord](https://discord.com/moderation)
 
 ![image](https://discord.com/assets/a6193089fb762c7874fffcc9e61fa91e.svg)
 
